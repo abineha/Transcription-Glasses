@@ -18,3 +18,4 @@ HARDWARE:
 
 https://github.com/user-attachments/assets/94402a49-a683-4640-bbed-6a1bb2189bd8
 
+![steps](https://github.com/user-attachments/assets/e1989862-46d9-4ca3-a239-ca627b667908)
