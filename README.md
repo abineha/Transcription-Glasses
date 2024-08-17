@@ -14,3 +14,7 @@ HARDWARE:
 •	Mirror
 •	Transparent glass
 •	3d printed glass structure
+
+
+https://github.com/user-attachments/assets/94402a49-a683-4640-bbed-6a1bb2189bd8
+
